@@ -1,10 +1,7 @@
-import { useDispatch } from 'react-redux';
-
 const HeroesListItem = ({ name, description, element, onDelete }) => {
-	const dispatch = useDispatch();
 
 	let elementClassName;
-
+	
 	switch (element) {
 		case 'fire':
 			elementClassName = 'bg-danger bg-gradient';

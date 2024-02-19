@@ -1,22 +1,28 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
+      "id": "3c5fce09-adb8-4a52-85ab-e615ccd2584e",
+      "name": "Ashra",
+      "description": "Драться",
       "element": "fire"
     },
     {
-      "id": "8e8e1cab-f81f-46fd-af93-20210001d99e",
-      "name": "s",
-      "description": "s",
-      "element": ""
+      "id": "23b343a7-0fca-472a-b959-c6f56c6d0b1d",
+      "name": "Матильда",
+      "description": "Ничего",
+      "element": "water"
     },
     {
-      "id": "f132db56-bc41-472e-bbc6-6ac475e861ef",
-      "name": "Oleg",
-      "description": "Говорить привет Майе",
-      "element": "fire"
+      "id": "d0d6c2e9-ad41-47a1-9a71-e12e377fb617",
+      "name": "Таня",
+      "description": "ничего",
+      "element": "wind"
+    },
+    {
+      "id": "3ca5e2ee-2a56-4a6f-9240-31fb75690d96",
+      "name": "Горо",
+      "description": "кулак",
+      "element": "earth"
     }
   ],
   "filters": [
