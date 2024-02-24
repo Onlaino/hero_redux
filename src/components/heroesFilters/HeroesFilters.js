@@ -40,7 +40,7 @@ const HeroesFilters = () => {
 					id={name}
 					className={btnClass}
 					onClick={() => dispatch(filtersChanged(name))}
-				>
+					>
 					{label}
 				</button>
 			);

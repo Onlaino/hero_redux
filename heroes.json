@@ -1,28 +1,28 @@
 {
   "heroes": [
     {
-      "id": "3c5fce09-adb8-4a52-85ab-e615ccd2584e",
-      "name": "Ashra",
-      "description": "Драться",
-      "element": "fire"
-    },
-    {
-      "id": "23b343a7-0fca-472a-b959-c6f56c6d0b1d",
-      "name": "Матильда",
-      "description": "Ничего",
-      "element": "water"
-    },
-    {
-      "id": "d0d6c2e9-ad41-47a1-9a71-e12e377fb617",
-      "name": "Таня",
-      "description": "ничего",
+      "id": "418256b7-e763-4cc4-a577-735badb5a8fe",
+      "name": "Егор",
+      "description": "сосать",
       "element": "wind"
     },
     {
-      "id": "3ca5e2ee-2a56-4a6f-9240-31fb75690d96",
-      "name": "Горо",
-      "description": "кулак",
+      "id": "ff4bd08e-b502-450a-bc37-43a1f44e5da5",
+      "name": "Oleg",
+      "description": "Molodec",
       "element": "earth"
+    },
+    {
+      "id": "e9948a3d-10ee-4054-b834-b77c96c72fd0",
+      "name": "Octagon",
+      "description": "Octagon",
+      "element": "water"
+    },
+    {
+      "id": "d4d185c3-cf50-41ad-bd8a-623b2fb74e30",
+      "name": "111",
+      "description": ";;;",
+      "element": "fire"
     }
   ],
   "filters": [
